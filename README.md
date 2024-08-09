@@ -26,7 +26,7 @@ git clone https://github.com/willnaoosmith/Spotify-statistics-generator.git
 2) Install the requirements:
 
 ```
-pip install -r requirements.txt
+cd Spotify-statistics-generator && pip install -r requirements.txt
 ```
 
 3) Set up your spotify integration (You can see more about it on the [Spotify docs](https://developer.spotify.com/documentation/web-api)):
