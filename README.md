@@ -17,7 +17,7 @@ Based on the following parameters:
 
 ### How to use:
 
-1) First, start and clone this repository (Please 🥹):
+1) First, star and clone this repository (Please 🥹):
 
 ```
 git clone https://github.com/willnaoosmith/Spotify-statistics-generator.git
